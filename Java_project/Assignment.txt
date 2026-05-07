@@ -1,0 +1,8 @@
+Hello everyone,
+We are going to learn java today.
+So Java is a easy programming language.
+You are going to enjoy this.
+Hopefully everything is great.
+Let's do JAVA.
+I am adding this java line with Buffer reader 
+Thank You 
