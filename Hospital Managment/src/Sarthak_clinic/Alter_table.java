@@ -1,7 +1,7 @@
 package Sarthak_clinic;
 
+
 import java.sql.Connection;
-import java.sql.Date;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -15,12 +15,12 @@ public class Alter_table {
 		String password="root";
 		
 		// Alter table with prepared statements
-		String sql="Alter table Students add age INT";
+		//String sql="Alter table Students add age INT";
 		String s ="UPDATE Students SET age=? WHERE rollno=?";
 		
 		// Alter table with direct statements
-		String addcol="alter table students \r\n"
-				+ "add address varchar(50)";
+		//String addcol="alter table students \r\n"
+			//	+ "add address varchar(50)";
 				
 		String update101="update students \r\n"
 				+ "set address=\"Pune\"\r\n"
